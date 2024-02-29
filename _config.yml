@@ -10,7 +10,9 @@ twitter_username: jekyllrb
 github_username:  shi
 
 # Build settings
-theme: beautiful-jekyll
+theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
-theme: beautiful-jekyll
+theme: minimal-mistakes-jekyll
+

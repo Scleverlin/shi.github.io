@@ -1,1 +1,4 @@
 theme: minima
+theme: minima
+permalink: /:title/
+pages_dir: _pages
